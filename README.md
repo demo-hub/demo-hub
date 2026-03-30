@@ -21,7 +21,7 @@ Tech Lead with 7+ years building and shipping software across fintech, AI, and W
 ## 📊 Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=jrodrigues97&hide_border=true&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=demo-hub&hide_border=true&theme=default" />
 </p>
 
 ## 📬 Get in touch
