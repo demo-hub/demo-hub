@@ -2,7 +2,7 @@
 
 **Tech Lead & Software Engineer** · Porto, Portugal
 
-Tech Lead with 7+ years building and shipping software across fintech, AI, and Web3. Currently leading a team of 8 engineers at [Universo](https://www.linkedin.com/in/jrodrigues97/), delivering digital banking products to over 300k users.
+Tech Lead with 7+ years building and shipping software across fintech, AI, and Web3.
 
 
 ## 🛠 Stack
